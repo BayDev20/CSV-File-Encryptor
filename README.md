@@ -33,7 +33,13 @@ The CSV File Encryption Tool is a simple Python application built with Tkinter t
    ```sh
    python Encrypt.py
    ```
-2. Choose a encrpytion key or enter a decryption key then choose the file. If the wrong decrption key is entered an error will appear.
+2. Start the application to see the main window.
+
+3. Use the interface to either enter a new encryption key or generate one.
+
+4. Select the CSV file you wish to encrypt or decrypt.
+
+5. Save the output file in your desired location after the operation is complete.
 
 ### NOTE
 This program creates an encrytped or decrypted copy. It does not alter the original. 
