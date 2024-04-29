@@ -10,6 +10,10 @@ The CSV File Encryption Tool is a simple Python application built with Tkinter t
 - **Decryption**: Decrypts previously encrypted CSV files using the correct decryption key.
 - **Key Validation**: Validates the decryption key before performing decryption to ensure data integrity.
 - **User-Friendly Interface**: Provides a graphical user interface (GUI) for easy interaction with the tool.
+  
+## Example of encrypted data:
+![encrypted example](https://github.com/BayDev20/CSV-File-Encryptor/assets/152105436/adce4a3d-0a99-4d5d-b7c9-030d1745b0e4)
+
 
 ## Getting Started
 
