@@ -2,7 +2,7 @@
 ![CSV Encrypter](https://github.com/BayDev20/CSV-File-Encryptor/assets/152105436/116cbfc1-ef48-4497-b615-461fd5985c93)
 
 
-The CSV File Encryption Tool is a simple Python application built with Tkinter that allows users to encrypt and decrypt CSV files using a specified key.
+The CSV File Encryption Tool is a Python application built with Tkinter that allows users to encrypt and decrypt CSV files using Fernet Encryption.
 
 ## Features
 
